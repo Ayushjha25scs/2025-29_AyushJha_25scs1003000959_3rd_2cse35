@@ -1,51 +1,34 @@
-Goldman Sachs – Internal Audit Job Simulation
+# Goldman Sachs – Internal Audit Job Simulation
 
-Forage Virtual Experience Program | Goldman Sachs
+**Forage Virtual Experience Program | Goldman Sachs**
 
-Student Details
+## Student Details
 
-Field
+| FieldDetails    |                               |
+| --------------- | ----------------------------- |
+| Name            | Ayush Jha                     |
+| Program         | Internal Audit Job Simulation |
+| Platform        | Forage                        |
+| Completion Date | September 20, 2026            |
 
-Details
-
-Name
-
-Ayush Jha
-
-Program
-
-Internal Audit Job Simulation
-
-Platform
-
-Forage
-
-Completion Date
-
-September 20, 2026
-
-About the Simulation
+## About the Simulation
 
 This repository documents my completion of the Goldman Sachs Internal Audit Job Simulation through Forage.
-
 The certificate confirms practical tasks in:
 
-Foundations of Internal Audit
+- Foundations of Internal Audit
+- Risk Assessment in Global Banking & Markets
 
-Risk Assessment in Global Banking & Markets
+## Skills & Learning Areas
 
-Skills & Learning Areas
+`Internal Audit` `Risk Assessment` `Operational Risk` `Compliance` `Audit Documentation`
 
-Internal Audit Risk Assessment Operational Risk Compliance Audit Documentation
+## Repository Contents
 
-Repository Contents
+- `Internship_Report_Ayush_Jha.pdf`
+- `PPT_Goldman_Sachs_Internal_Audit_Ayush_Jha.pptx`
+- `Goldman_Sachs_Internal_Audit_Certificate.pdf`
 
-Internship_Report_Ayush_Jha.pdf
+## Certificate
 
-PPT_Goldman_Sachs_Internal_Audit_Ayush_Jha.pptx
-
-Goldman_Sachs_Internal_Audit_Certificate.pdf
-
-Certificate
-
-Certificate of Completion issued by Forage on September 20, 2026.
+Certificate of Completion issued by Forage on September 20, 2026.   give in copy paste format
